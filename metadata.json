@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird",
+  "description": "A retro HTML5 Canvas Flappy Bird game with authentic physics, scrolling pipes, and score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
